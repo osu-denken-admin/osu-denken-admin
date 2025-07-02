@@ -1,16 +1,16 @@
-## Hi there 👋
+大阪産業大学 電子計算研究部 管理用アカウント
 
-<!--
-**osu-denken-admin/osu-denken-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEaGURCBYJKwYBBAHaRw8BAQdA9A5gMRxX5HJM57Ovr0Z/NaS62rKlJ3PduIpU
+ac0Wr/C0WW9zdS1kZW5rZW4gKOWkp+mYqueUo+alreWkp+WtpiDpm7vlrZDoqIjn
+rpfnoJTnqbbpg6gpIDxkZW5rZW4uY2x1YkBnZS5vc2FrYS1zYW5kYWkuYWMuanA+
+iJMEExYKADsWIQTPeSqNfTKpsjQlP2FWVMlzInPYQgUCaGURCAIbAwULCQgHAgIi
+AgYVCgkICwIEFgIDAQIeBwIXgAAKCRBWVMlzInPYQlHNAP9gO1rRdULCYbCOS3q1
+VD4e5uldUkW9UhaykM38NT8ajwEA0VanlmCR0UGyVTmYhoxUW/Izdky+cTU2/nAx
+yob//QK4OARoZREIEgorBgEEAZdVAQUBAQdAB4vbNY5U5v3ks/RDXe58nTx74j9C
+tOzsiKZcKwPq5X0DAQgHiHgEGBYKACAWIQTPeSqNfTKpsjQlP2FWVMlzInPYQgUC
+aGURCAIbDAAKCRBWVMlzInPYQqpsAQCAa5/Q4/KNPdhYhI97AUZezLP2YBXj89Vk
+4Uf5B1qZewEAhHVKXvRmMDYoos2vl2lefsyYxSPFcYcCcMf/QhwYaAs=
+=t0Z9
+-----END PGP PUBLIC KEY BLOCK-----
