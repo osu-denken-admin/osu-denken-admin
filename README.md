@@ -1,4 +1,6 @@
-大阪産業大学 電子計算研究部 管理用アカウント
+# 大阪産業大学 電子計算研究部 管理用アカウント
+
+[大阪産業大学 電子計算研究部](https://github.com/osu-denken)
 
 ```asm
 -----BEGIN PGP PUBLIC KEY BLOCK-----
